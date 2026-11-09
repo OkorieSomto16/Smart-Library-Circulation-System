@@ -33,8 +33,6 @@ The source brief does not define local circulation policy. The app currently use
 - `src/controller`: circulation and search/sorting algorithms
 - `src/gui`: native Windows interface
 - `src/utils`: IDs and text-file persistence
-- `docs`: class diagram and project report
 
 This is a local teaching-project application. It does not implement authentication, network synchronization, or payments.
 
-The previous Java version is preserved separately in `legacy-java`; the active build at the project root is C++.
